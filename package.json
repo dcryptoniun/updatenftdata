@@ -1,0 +1,11 @@
+{
+  "name": "mayank_data_updater",
+  "version": "1.1.1",
+  "description": "update_info",
+  "scripts": {
+    "unrevealjson": "node unrevealjson.js",
+    "update": "node updatedata.js",
+    "rename": "node rename.js",
+    "reimage": "node reimage.js"
+  }
+}
