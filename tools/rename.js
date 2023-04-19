@@ -1,19 +1,6 @@
 const displayMessage = require("./console.js");
 displayMessage();
 
-// const fs = require("fs");
-// const path = require("path");
-
-// const folderPath = "./2"; // replace with your folder path
-// const startNumber = 7000; // replace with your desired starting number
-// const files = fs.readdirSync(folderPath);
-
-// files.forEach((file, i) => {
-//   const oldPath = path.join(folderPath, file);
-//   const newPath = path.join(folderPath, `${i + startNumber}.json`);
-//   fs.renameSync(oldPath, newPath);
-// });
-
 /**
  * remove extenstion from file name within folder
  */

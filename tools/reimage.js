@@ -1,4 +1,4 @@
-const displayMessage = require("./console.js");
+const displayMessage = require("../console.js");
 displayMessage();
 
 const fs = require("fs");
